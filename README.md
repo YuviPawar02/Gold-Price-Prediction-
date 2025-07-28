@@ -6,11 +6,11 @@
 
 <h3>Tools & Technologies</h3>
 
-<h4>Python</h2>
-<h4>Pandas, NumPy</h4>
-<h4>Scikit-learn</h4>
-<h4>Matplotlib, Seaborn</h4>
-<h4>Jupyter Notebook / Google Colab</h4>
+<h4>1.Python</h2>
+<h4>2.Pandas, NumPy</h4>
+<h4>3.Scikit-learn</h4>
+<h4>4.Matplotlib, Seaborn</h4>
+<h4>5.Jupyter Notebook / Google Colab</h4>
 
 
 <h3>Workflow</h3>
